@@ -1,0 +1,38 @@
+.container {
+width: 720px;
+height: 960px;
+padding: 20px;
+background-color: silver;
+margin:auto;
+
+}
+.first {
+    width: 680px;
+    height: 250px;
+    background-color: aqua;
+    margin: 20px;
+    display: flex;
+}
+.second {
+    width: 680px;
+    height: 250px;
+    background-color: rgb(209, 34, 182);
+    margin: 20px;
+    display: flex;
+}
+.third {
+    width: 680px;
+    height: 250px;
+    background-color: rgb(0, 255, 55);
+    margin: 20px;
+    display: flex;
+}
+.cat1 {
+    height: 145px;
+    margin: auto;
+}
+
+
+.container h1 {
+    text-align: center;
+}
